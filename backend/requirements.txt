@@ -1,0 +1,15 @@
+Flask==2.0.2
+flask-cors==3.0.10
+google-cloud-speech==2.16.2
+google-cloud-texttospeech==2.12.1
+google-cloud-language==2.6.1
+google-auth==2.6.6
+python-dotenv==0.20.0
+requests==2.28.1
+gunicorn==20.1.0
+uuid==1.30
+whisper==1.0.0
+spacy==3.0.0
+spacytextblob==3.0.0
+edge-tts==0.1.1
+openai-whisper==1.0.0
