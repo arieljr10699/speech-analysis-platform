@@ -29,7 +29,7 @@ Follow these steps to set up the frontend:
 
 2. Navigate to the frontend directory:
 
-`cd speech-analysis-platform/frontend`
+`cd speech-analysis-platform/frontend/speech-analysis`
 
 3. Install dependencies:
 
