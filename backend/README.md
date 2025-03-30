@@ -18,7 +18,7 @@ Follow these steps to set up the backend:
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.4+
 - Google Cloud Account (for using the Google APIs)
 
 ### Setup Instructions
